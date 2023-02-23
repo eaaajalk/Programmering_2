@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek01_Rekursion/Lek01_Rekursion.iml" filepath="$PROJECT_DIR$/Lek01_Rekursion/Lek01_Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek02_Rekursion2/Lek02_Rekursion2.iml" filepath="$PROJECT_DIR$/Lek02_Rekursion2/Lek02_Rekursion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek03/Lek03.iml" filepath="$PROJECT_DIR$/Lek03/Lek03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek04_Tidskompleksitet/Lek04_Tidskompleksitet.iml" filepath="$PROJECT_DIR$/Lek04_Tidskompleksitet/Lek04_Tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek05_Collections/Lek05_Collections.iml" filepath="$PROJECT_DIR$/Lek05_Collections/Lek05_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek06_Lambda/Lek06_Lambda.iml" filepath="$PROJECT_DIR$/Lek06_Lambda/Lek06_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek07/Lek07.iml" filepath="$PROJECT_DIR$/Lek07/Lek07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek08_JUnit/Lek08_JUnit.iml" filepath="$PROJECT_DIR$/Lek08_JUnit/Lek08_JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek08_TestNoteKode/Lek08_TestNoteKode.iml" filepath="$PROJECT_DIR$/Lek08_TestNoteKode/Lek08_TestNoteKode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek9_Projekt/Lek9_Projekt.iml" filepath="$PROJECT_DIR$/Lek9_Projekt/Lek9_Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 2.iml" filepath="$PROJECT_DIR$/Programmering 2.iml" />
+    </modules>
+  </component>
+</project>
