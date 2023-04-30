@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de2c7008-c580-4cee-8d91-ae233f035cd6" name="Changes" comment="lek">
+      <change afterPath="$PROJECT_DIR$/Lek08_JUnit/src/Opgave_5/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek08_JUnit/src/Opgave_5/Opgave5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/Lek11_patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave4/CompareNavn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave4/CompareNummer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave4/Kunde (conflicted).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave4/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave4/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/BogTitel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/Indkoeber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/Saelger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/Opgave5/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpull/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpull/ObserverAnalogtUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpull/ObserverDigitaltUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpull/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpull/SubjectUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpull/TestObserverUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpush/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpush/ObserverAnalogtUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpush/ObserverDigitaltUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpush/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpush/SubjectUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lek11_patterns/src/ur/urpush/TestObserverUr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/JDBC2023/DAOS_lek6/OPG16.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/DAOS_LEK6/OPG16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/JDBC2023/DAOS_lek6/Opg14_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/DAOS_LEK6/Opg14_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/JDBC2023/DAOS_lek6/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/DAOS_LEK6/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2J5yXPHffRIBSg0ioPFkueYyFIv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/piscatorem/Documents/Datamatiker/PRO/1 semester/Projects/Programmering 2/Lek11_patterns/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lek11_patterns/src" />
+      <recent name="$PROJECT_DIR$/JDBC/src" />
+      <recent name="$PROJECT_DIR$/Lek08_TestNoteKode" />
+      <recent name="$PROJECT_DIR$/Lek08_TestNoteKode/src" />
+      <recent name="$PROJECT_DIR$/Lek08_JUnit/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lek08_JUnit" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Opgave2" />
+      <recent name="forsikring" />
+      <recent name="modelstudent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="OPG16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC2023.DAOS_lek6.OPG16" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC2023.DAOS_lek6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opgave5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave_5.Opgave5" />
+      <module name="Lek08_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opgave_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opgave_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave_5" />
+      <module name="Lek07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave4.main" />
+      <module name="Lek11_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave5.test" />
+      <module name="Lek11_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opgave5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Opgave5" />
+        <item itemvalue="Application.Opgave_5" />
+        <item itemvalue="Application.OPG16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lek" />
+    <option name="LAST_COMMIT_MESSAGE" value="lek" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Prøve1/controller/Controller.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package JDBC2023.DAOS_lek6;
+package DAOS_LEK6;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
