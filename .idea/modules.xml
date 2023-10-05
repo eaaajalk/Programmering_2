@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_Programmering1/A_Programmering1.iml" filepath="$PROJECT_DIR$/A_Programmering1/A_Programmering1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DAOS/DAOS.iml" filepath="$PROJECT_DIR$/DAOS/DAOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS_AFLEVERING/DAOS_AFLEVERING.iml" filepath="$PROJECT_DIR$/DAOS_AFLEVERING/DAOS_AFLEVERING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIS/DIS.iml" filepath="$PROJECT_DIR$/DIS/DIS.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek01_Rekursion/Lek01_Rekursion.iml" filepath="$PROJECT_DIR$/Lek01_Rekursion/Lek01_Rekursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek02_Rekursion2/Lek02_Rekursion2.iml" filepath="$PROJECT_DIR$/Lek02_Rekursion2/Lek02_Rekursion2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lek03/Lek03.iml" filepath="$PROJECT_DIR$/Lek03/Lek03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek03_rekusionquickmergemax/Lek03_rekusionquickmergemax.iml" filepath="$PROJECT_DIR$/Lek03_rekusionquickmergemax/Lek03_rekusionquickmergemax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek04_Tidskompleksitet/Lek04_Tidskompleksitet.iml" filepath="$PROJECT_DIR$/Lek04_Tidskompleksitet/Lek04_Tidskompleksitet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek05_Collections/Lek05_Collections.iml" filepath="$PROJECT_DIR$/Lek05_Collections/Lek05_Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek06_Lambda/Lek06_Lambda.iml" filepath="$PROJECT_DIR$/Lek06_Lambda/Lek06_Lambda.iml" />
@@ -18,9 +21,17 @@
       <module fileurl="file://$PROJECT_DIR$/Lek13_Iterator.Composite/Lek13_Iterator.Composite.iml" filepath="$PROJECT_DIR$/Lek13_Iterator.Composite/Lek13_Iterator.Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek14_serializable/Lek14_serializable.iml" filepath="$PROJECT_DIR$/Lek14_serializable/Lek14_serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek21_kaedet-struktur/Lek21_kaedet-struktur.iml" filepath="$PROJECT_DIR$/Lek21_kaedet-struktur/Lek21_kaedet-struktur.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lek21_kaedet-struktur/Lek22_Stacks/Lek22_Stacks.iml" filepath="$PROJECT_DIR$/Lek21_kaedet-struktur/Lek22_Stacks/Lek22_Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek22_Stacks/Lek22_Stacks.iml" filepath="$PROJECT_DIR$/Lek22_Stacks/Lek22_Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek23_Koe/Lek23_Koe.iml" filepath="$PROJECT_DIR$/Lek23_Koe/Lek23_Koe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek24_hash/Lek24_hash.iml" filepath="$PROJECT_DIR$/Lek24_hash/Lek24_hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek25_generic/Lek25_generic.iml" filepath="$PROJECT_DIR$/Lek25_generic/Lek25_generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek26_hashingOgMap/Lek26_hashingOgMap.iml" filepath="$PROJECT_DIR$/Lek26_hashingOgMap/Lek26_hashingOgMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek27_traer/Lek27_traer.iml" filepath="$PROJECT_DIR$/Lek27_traer/Lek27_traer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek28_BNtree/Lek28_BNtree.iml" filepath="$PROJECT_DIR$/Lek28_BNtree/Lek28_BNtree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek29_proeveEksamen/Lek29_proeveEksamen.iml" filepath="$PROJECT_DIR$/Lek29_proeveEksamen/Lek29_proeveEksamen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek9_Projekt/Lek9_Projekt.iml" filepath="$PROJECT_DIR$/Lek9_Projekt/Lek9_Projekt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programmering 2.iml" filepath="$PROJECT_DIR$/Programmering 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eksanemforb/eksanemforb.iml" filepath="$PROJECT_DIR$/eksanemforb/eksanemforb.iml" />
     </modules>
   </component>
 </project>

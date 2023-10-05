@@ -72,7 +72,6 @@ public class CityList {
 	 */
 	public int countCities() {
 		return countCities;
-
 	}
 
 	public void removeCity(City city) {

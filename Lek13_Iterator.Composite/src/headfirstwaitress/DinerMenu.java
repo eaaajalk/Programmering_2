@@ -5,7 +5,6 @@ import java.util.Iterator;
 
 public class DinerMenu implements Iterable<MenuItem>{
 	private static final int MAX_ITEMS = 6;
-	
 	private int numberOfItems;
 	private MenuItem[] menuItems;
 
@@ -17,7 +16,6 @@ public class DinerMenu implements Iterable<MenuItem>{
 		addItem("BLT", "Bacon with letture & tomato on whole wheat", false, 2.99);
 		addItem("Soup of the day", "\"Soup of the day with a side og potato salad", false, 3.29);
 		addItem("Hotdog", "A hotdog, with saurkraut, relish, onion, toppes with cheese", false, 3.05);
-
 	}
 
 	public void addItem(String name, String description, boolean vegetarian, double price) {

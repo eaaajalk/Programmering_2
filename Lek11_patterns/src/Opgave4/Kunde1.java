@@ -5,6 +5,7 @@ import java.util.Comparator;
 public class Kunde1 implements Comparable<Kunde1> {
     private String navn;
     private int nummer;
+    private Comparator<Kunde1> comparator;
 
     public Kunde1(String navn, int nummer) {
         this.navn = navn;
@@ -31,9 +32,17 @@ public class Kunde1 implements Comparable<Kunde1> {
         return navn + " " + nummer;
     }
 
+    public void setComparator(Comparator<Kunde1> comparator) {
+        this.comparator = comparator;
+    }
+
+    public Comparator<Kunde1> getComparator() {
+        return this.comparator;
+    }
+
     @Override
     public int compareTo(Kunde1 o) {
-        return new CompareNummer().compare(this, o);
+        return getComparator().compare(this, o);
     }
 
     public static Comparator<Kunde1> compareNavn() {

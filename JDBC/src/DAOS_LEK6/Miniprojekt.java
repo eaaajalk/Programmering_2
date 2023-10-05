@@ -64,21 +64,21 @@ public class Miniprojekt {
         catch (SQLException e) {
             switch (e.getErrorCode())
             // fejl-kode 547 svarer til en foreign key fejl
-            { case 547 : {if (e.getMessage().contains("eksamensidforeign"))
-                System.out.println("Den pågældende eksamen er ikke oprettet");
-            else
-            if (e.getMessage().contains("cprforerign"))
-                System.out.println("Den studerende er ikke oprettet");
-            else
-                System.out.println("ukendt fremmednøglefejl");
-                break;
-            }
-
-                case 2627: {System.out.println("Primary key er allerede brugt");
-                    break;
+            {
+                case 547 -> {
+                    if (e.getMessage().contains("eksamensidforeign"))
+                        System.out.println("Den pågældende eksamen er ikke oprettet");
+                    else if (e.getMessage().contains("cprforerign"))
+                        System.out.println("Den studerende er ikke oprettet");
+                    else
+                        System.out.println("ukendt fremmednøglefejl");
                 }
-                default: System.out.println("fejlSQL:  "+e.getMessage());
-            };
+                case 2627 -> {
+                    System.out.println("Primary key er allerede brugt");
+                }
+                default -> System.out.println("fejlSQL:  " + e.getMessage());
+            }
+            ;
         }
         catch (Exception e) {
             System.out.println("fejl:  "+e.getMessage());

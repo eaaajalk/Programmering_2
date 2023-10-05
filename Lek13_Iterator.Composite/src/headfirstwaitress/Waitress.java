@@ -12,8 +12,6 @@ public class Waitress {
 	}
 
 	public void printMenu() {
-
-		
 		Iterator<MenuItem> pancakeIterator = pancakeHouseMenu.iterator();		
 		System.out.println("Menu\n ---\nBreakfast");
 		printMenu(pancakeIterator);

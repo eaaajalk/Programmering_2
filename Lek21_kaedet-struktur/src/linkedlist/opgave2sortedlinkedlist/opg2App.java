@@ -1,6 +1,7 @@
 package linkedlist.opgave2sortedlinkedlist;
 
 import java.sql.SQLOutput;
+import java.util.Iterator;
 
 public class opg2App {
 
@@ -37,6 +38,21 @@ public class opg2App {
 
         list.addElement("h");
         System.out.println("\nRekusiv tælller: " + list.countElements2());
+
+
+
+        // test af iterator implementation:
+
+        System.out.println("Iterator test:");
+
+        Iterator<SortedLinkedList.Node> it = list.iterator();
+        while (it.hasNext()) {
+            System.out.println(it.next().data);
+        }
+
+
+
+
 
 
 

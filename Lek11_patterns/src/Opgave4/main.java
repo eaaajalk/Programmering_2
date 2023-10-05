@@ -21,8 +21,8 @@ public class main {
         for (Kunde1 k : kunder) {
             System.out.println(k);
         }
-
         System.out.println();
+
 
         kunder.sort(Kunde1.compareNummer());
         System.out.println("Printer kunder storteret efter nummer");

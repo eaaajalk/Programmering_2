@@ -7,6 +7,8 @@ import java.util.NoSuchElementException;
 
 public class SortedLinkedListDouble {
 
+	// first og last er tomme sentinels.
+
 	private Node first;
 	private Node last;
 	private int size;
@@ -27,12 +29,13 @@ public class SortedLinkedListDouble {
 		// TODO
 		Node newNode = new Node();
 		newNode.data = e;
-
+		// hvis listen er tom
 		if (first.next == last) {
 			newNode.prev = first;
 			newNode.next = last;
 			first.next = newNode;
 			last.prev = newNode;
+			//Hvis det nye element er mindre end det første.
 		} else if (e.compareTo(first.next.data) < 0) {
 			newNode.next = first.next;
 			newNode.prev = first;
@@ -40,13 +43,14 @@ public class SortedLinkedListDouble {
 			first.next = newNode;
 		} else {
 			Node temp = first.next;
-			while (temp.next != last && e.compareTo(temp.data) > 0) {
+			while (temp.next != last && e.compareTo(temp.next.data) > 0) {
 				temp = temp.next;
 			}
-				newNode.next = temp;
-				newNode.prev = temp.prev;
-				temp.prev.next = newNode;
-				temp.prev = newNode;
+			//newNode indsættes efter temp.
+				newNode.next = temp.next;
+				newNode.prev = temp;
+				temp.next.prev = newNode;
+				temp.next = newNode;
 		}
 		size++;
 	}
@@ -59,29 +63,36 @@ public class SortedLinkedListDouble {
 	 * @return true hvis e blev fjernet fra listen ellers returneres false.
 	 */
 	public boolean removeElement(String e) {
-	// TODO
-		boolean b = false;
+		boolean removed = false;
+
 		if (first.next == last) {
 			throw new NoSuchElementException();
 		}
-		Node temp = first;
-		while (temp.next != last || !b) {
-			if (temp.next.data.equalsIgnoreCase(e)) {
-				temp.next = temp.next.next;
-				temp.next.prev = temp;
-				b = true;
+
+		Node temp = first.next;
+		while (temp != last && !removed) {
+			if (temp.data.equalsIgnoreCase(e)) {
+				temp.prev.next = temp.next;
+				temp.next.prev = temp.prev;
+				removed = true;
 				size--;
 			}
 			temp = temp.next;
 		}
-		return b;
+
+		return removed;
 	}
+
 
 	/**
 	 * Udskriver elementerne fra listen i sorteret rækkefølge 
 	 */
 	public void udskrivElements() {
 		//TODO
+		if (first.next == last) {
+			return; // Listen er tom, der er intet at udskrive
+		}
+
 		Node temp = first.next;
 		while (temp != last) {
 			System.out.println(temp.data);
@@ -94,6 +105,10 @@ public class SortedLinkedListDouble {
 	 */
 	public void udskrivBagfra() {
 		// TODO
+		if (first.next == last) {
+			return; // Listen er tom, der er intet at udskrive
+		}
+
 		Node temp = last.prev;
 		while (temp != first) {
 			System.out.println(temp.data);
